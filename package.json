@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "chromedriver": "^112.0.0",
+    "jest": "^29.5.0"
+  },
+  "jest": {
+    "testTimeout": 30000
+  },
+  "name": "w2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "selenium-webdriver": "^4.10.0"
+  }
+}
